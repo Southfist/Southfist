@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a complete and utter Noob!  I have no idea what I am doing. I just wanted to learn how to use ce2utils. Hopefully I can find a starting point.
 
 <!--
 **Southfist/Southfist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
